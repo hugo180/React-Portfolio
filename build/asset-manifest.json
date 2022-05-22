@@ -1,31 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.26edfc1b.chunk.css",
-    "main.js": "/static/js/main.5aae0823.chunk.js",
-    "main.js.map": "/static/js/main.5aae0823.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c74cec28.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c74cec28.js.map",
+    "main.css": "/static/css/main.8cbfc169.chunk.css",
+    "main.js": "/static/js/main.10e27fd2.chunk.js",
+    "main.js.map": "/static/js/main.10e27fd2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00786952.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00786952.js.map",
     "static/js/2.ba1c08d5.chunk.js": "/static/js/2.ba1c08d5.chunk.js",
     "static/js/2.ba1c08d5.chunk.js.map": "/static/js/2.ba1c08d5.chunk.js.map",
-    "static/js/3.62227560.chunk.js": "/static/js/3.62227560.chunk.js",
-    "static/js/3.62227560.chunk.js.map": "/static/js/3.62227560.chunk.js.map",
+    "static/js/3.678c3eb2.chunk.js": "/static/js/3.678c3eb2.chunk.js",
+    "static/js/3.678c3eb2.chunk.js.map": "/static/js/3.678c3eb2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.26edfc1b.chunk.css.map": "/static/css/main.26edfc1b.chunk.css.map",
+    "static/css/main.8cbfc169.chunk.css.map": "/static/css/main.8cbfc169.chunk.css.map",
     "static/js/2.ba1c08d5.chunk.js.LICENSE.txt": "/static/js/2.ba1c08d5.chunk.js.LICENSE.txt",
-    "static/media/about-9.24eb96f8.jpg": "/static/media/about-9.24eb96f8.jpg",
-    "static/media/about.ef784249.jpg": "/static/media/about.ef784249.jpg",
-    "static/media/blog-01.67ebb920.jpg": "/static/media/blog-01.67ebb920.jpg",
-    "static/media/blog-02.6ecd55ed.jpg": "/static/media/blog-02.6ecd55ed.jpg",
-    "static/media/blog-03.1bced0df.jpg": "/static/media/blog-03.1bced0df.jpg",
-    "static/media/portfolio-1.6dd6354d.jpg": "/static/media/portfolio-1.6dd6354d.jpg",
-    "static/media/portfolio-2.7581ecc6.jpg": "/static/media/portfolio-2.7581ecc6.jpg",
-    "static/media/portfolio-3.e1d203d2.jpg": "/static/media/portfolio-3.e1d203d2.jpg",
-    "static/media/portfolio-4.2d8bf5e6.jpg": "/static/media/portfolio-4.2d8bf5e6.jpg"
+    "static/media/Hugo_Rubio_Resume.c2f9e3e0.pdf": "/static/media/Hugo_Rubio_Resume.c2f9e3e0.pdf",
+    "static/media/about.e2f80cfc.jpeg": "/static/media/about.e2f80cfc.jpeg",
+    "static/media/contact.9fc55153.jpg": "/static/media/contact.9fc55153.jpg",
+    "static/media/Home.css": "/static/media/ezgif.com-gif-maker (1).9d7a1b5a.gif",
+    "static/media/pet-pal.4e9a8c52.png": "/static/media/pet-pal.4e9a8c52.png",
+    "static/media/text-editor.291d30b0.png": "/static/media/text-editor.291d30b0.png",
+    "static/media/weather.8993e9b9.png": "/static/media/weather.8993e9b9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c74cec28.js",
+    "static/js/runtime-main.00786952.js",
     "static/js/2.ba1c08d5.chunk.js",
-    "static/css/main.26edfc1b.chunk.css",
-    "static/js/main.5aae0823.chunk.js"
+    "static/css/main.8cbfc169.chunk.css",
+    "static/js/main.10e27fd2.chunk.js"
   ]
 }
