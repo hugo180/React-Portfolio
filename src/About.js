@@ -25,7 +25,7 @@ function About() {
               </p>
 
               <div className="about__button d__flex align__items__center">
-                <a  >
+                <a>
                   <button scr={cv} className="about btn pointer">Download Cv</button>
                 </a>
               </div>
@@ -36,7 +36,7 @@ function About() {
       </div>
       {/* UP TO TOP BTN */}
       <div className="up__to__top__btn">
-        <a href="#" className="bottom__to__top">
+        <a href="#Home" className="bottom__to__top">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"

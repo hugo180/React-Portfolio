@@ -11,7 +11,7 @@ function Footer() {
         className="copyright"
         style={{ color: "#c6c9d8", fontSize: "14px", opacity: "0.75"}}
       >
-        <span> Created By <a href="#">Hugo Rubio</a> | <span class="far fa-copyright"></span>2022 All rights reserved.</span>
+        <span> Created By <a href="https://github.com/hugo180">Hugo Rubio</a> | <span class="far fa-copyright"></span>2022 All rights reserved.</span>
 
       </span>
     </div>
