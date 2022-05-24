@@ -6,6 +6,8 @@ import Home from "./Home";
 import Project from "./Project";
 
 
+
+
 function App() {
   return (
     <div className="App">
@@ -14,6 +16,8 @@ function App() {
        <Project />
        <Contact />
        <Footer />
+
+       
     </div>
   );
 }

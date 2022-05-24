@@ -27,7 +27,7 @@ function Project() {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">Weather Dashboard</h5>
-                     <h4 className="project__text">a simple app that uses a weatheer API</h4>
+                     <h4 className="project__text">a simple app that uses a weather API</h4>
                      <a href="https://github.com/hugo180/WEatherdashbioard-Api-Project" className="project__btn">Github</a>
                      <a href="https://hugo180.github.io/WEatherdashbioard-Api-Project/" className="project__btn">Deployed app</a>
 

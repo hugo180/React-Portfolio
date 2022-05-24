@@ -25,9 +25,9 @@ function About() {
               </p>
 
               <div className="about__button d__flex align__items__center">
-                <a>
-                  <button scr={cv} className="about btn pointer">Download Cv</button>
-                </a>
+              <a href="https://drive.google.com/file/d/1wyuB0HmgrDTK60z5glxp854Fi1dRrDk2/view" className="project__btn">Download CV</a>
+
+            
               </div>
 
             </div>

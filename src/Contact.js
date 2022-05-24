@@ -1,6 +1,9 @@
 import React from 'react';
 import './Contact.css';
 import contactImg from "./img/contact.jpg"
+
+
+
 function Contact() {
     return (
         <div className="contact component__space" id="Contact">
@@ -11,6 +14,12 @@ function Contact() {
                             <h1 className="hire__text">Contact Me.</h1>
                             <p className="hire__text white">Connect with me via email:</p>
                            <p className="hire__text white"> <strong>hugorubio180@gmail.com</strong></p>
+                           <p className="hire__text white">My Github</p>
+                           <p className="hire__text white"> <strong>https://github.com/hugo180</strong></p>
+                           <p className="hire__text white">linkedin</p>
+                           <p className="hire__text white"> <strong>https://bit.ly/3GaiZ4N</strong></p>
+                           <p className="hire__text white">Twitter</p>
+                           <p className="hire__text white"> <strong>https://bit.ly/3yOKorg</strong></p>
                         </div>
                         <div className="input__box">
                            <input type="text" className="contact name" placeholder="name *" />
@@ -25,7 +34,12 @@ function Contact() {
                     <img src={contactImg} alt="" className="contact__img" />
                 </div>
             </div>
+
+
         </div>
+
+
+             
     )
 }
 
