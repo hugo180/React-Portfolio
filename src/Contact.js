@@ -14,12 +14,6 @@ function Contact() {
                             <h1 className="hire__text">Contact Me.</h1>
                             <p className="hire__text white">Connect with me via email:</p>
                            <p className="hire__text white"> <strong>hugorubio180@gmail.com</strong></p>
-                           <p className="hire__text white">My Github</p>
-                           <p className="hire__text white"> <strong>https://github.com/hugo180</strong></p>
-                           <p className="hire__text white">linkedin</p>
-                           <p className="hire__text white"> <strong>https://bit.ly/3GaiZ4N</strong></p>
-                           <p className="hire__text white">Twitter</p>
-                           <p className="hire__text white"> <strong>https://bit.ly/3yOKorg</strong></p>
                         </div>
                         <div className="input__box">
                            <input type="text" className="contact name" placeholder="name *" />
@@ -28,6 +22,11 @@ function Contact() {
                            <textarea name="message" id="message" placeholder="Write Your message"></textarea>
                            <button className="btn contact pointer" type="submit">Submit</button>
                         </div>
+                        <div>
+                           <a href="https://github.com/hugo180" className="project__btn">Github</a>
+                           <a href="https://bit.ly/3GaiZ4N" className="project__btn">linkedin</a>
+                           <a href="https://bit.ly/3yOKorg" className="project__btn">Twitter</a>
+                           </div>
                     </div>
                 </div>
                 <div className="col__2">
